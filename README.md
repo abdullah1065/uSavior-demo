@@ -1,4 +1,4 @@
-# uSavior-demo [main Website source code in Private mode]
+# uSavior-demo [Website source code in Private mode]
 
 <h3> An academic aid website.</h3>
 
