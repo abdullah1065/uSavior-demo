@@ -1,6 +1,7 @@
 # uSavior-demo [Website source code in Private mode]
 
-uSavior is an educational platform tailored for students and instructors, particularly those in the field of Computer Science and Engineering (CSE). It offers an extensive range of CSE-related courses, interactive features, and personalized learning experiences.
+uSavior is an Academic Aid & Online Education Based platform tailored for students and instructors. It offers an extensive range of related courses, interactive features, and personalized learning experiences.
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -9,8 +10,6 @@ uSavior is an educational platform tailored for students and instructors, partic
 - [Tech Stack](#tech-stack)
 - [Installation Guide](#installation-guide)
 - [How to Use](#how-to-use)
-- [Contributors](#contributors)
-- [License](#license)
 
 <a href="https://ibb.co/9w7j11S"><img src="https://i.ibb.co/4sHxXX3/Capture1.png" alt="Capture1" border="0"></a>
 
