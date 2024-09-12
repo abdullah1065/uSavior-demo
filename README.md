@@ -14,13 +14,13 @@ uSavior is an Academic Aid & Online Education Based platform tailored for studen
 <a href="https://ibb.co/9w7j11S"><img src="https://i.ibb.co/4sHxXX3/Capture1.png" alt="Capture1" border="0"></a>
 
 ## Project Overview
-Education has evolved, and uSavior is designed to meet the growing demands of students and instructors in CSE. The platform allows students to choose from a vast catalog of courses, complete with lecture videos, reading materials, assignments, and quizzes. Instructors can create their own accounts, manage course materials, and interact with students.
+Education has evolved, and uSavior is designed to meet the growing demands of students and instructors. The platform allows students to choose from a vast catalog of related courses, complete with lecture videos, reading materials, assignments, and quizzes. Instructors can create their own accounts, manage course materials, and interact with students.
 
 ## Features
 
 ### For Students
-- Create accounts and enroll in courses
-- Browse a wide range of CSE-related courses
+- Create accounts and enroll in related courses
+- Browse a wide range of  -related courses
 - Access lecture videos, reading materials, assignments, and quizzes
 - Get notifications about updates and deadlines
 - Secure payment gateway for course purchases
